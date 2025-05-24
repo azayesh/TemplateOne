@@ -186,7 +186,7 @@ ul li a:hover::after {
 /* end header  */
 /* start landing sectio */
 .landing {
-    background-image: url(../images/xps-dpbXgTh0Lac-unsplash.jpg);
+/*     background-image: url(../images/xps-dpbXgTh0Lac-unsplash.jpg); */
     background-size: cover;
     height: calc(100vh - 82.92px);
     z-index: -1;
